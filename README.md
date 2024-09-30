@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/github/release/juewuy/ShellCrash.svg?style=flat-square&label=ShellCrash&colorB=green">
   </a>
 </p>
-
-[中文](README_CN.md) | English
+(README_CN.md) | English
 
 ## Function introduction: 
 
